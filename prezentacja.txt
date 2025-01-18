@@ -1,0 +1,11 @@
+1. Uruchomic script_analysis -> download_scripts.py - przykadowy hash sha256 - a8ff9f13b6c3efdc32b708719fc678cc99c420a2ead90d770c27303a22a38889
+
+2. Uruchomic script_analysis -> analyze_scripts.py - API: 4ee6c94cba7be3e329f2dd92ddb64f4085b2032d1164f171043c76c74d56e0b4
+
+3. Uruchomic script_analysis -> full_report_converter.py
+             script_analysis -> behaviour_summary_converter.py
+
+4. Uruchomic passive_defuscation -> main.py - sciezka - /home/kali/Desktop/projekt_IS/malware_samples/0a5f907e9f0dade65fc292d3f1ed1f68cfb68895a84adaa173c543792be891ba.py
+
+5. Uruchomic secure_data.py - secure path - /home/kali/Desktop/projekt_IS/reports/c897f350c048329e77eae707fcf6ee75a6a18d75068927005ee1e8450009b394_behaviour_summary.txt
+

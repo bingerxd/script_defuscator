@@ -1,0 +1,110 @@
+
+    RAPORT O PLIKU
+    ---------------------
+    Nazwa pliku: builded.exe
+    Typ pliku: Win32 EXE (exe)
+    Rozmiar pliku: 17318617 bajtów
+    Magic: PE32+ executable (GUI) x86-64, for MS Windows
+    
+    Identyfikatory:
+    - MD5: 16a4f448219d7e20a80612d03a0a0f5c
+    - SHA1: 4e86a64e2d2df2b6303cc0bcfae8d2feab157e03
+    - SHA256: c897f350c048329e77eae707fcf6ee75a6a18d75068927005ee1e8450009b394
+    - TLSH: T132073310BEA458FFD6B7593E8535C02891E1BC214BD0C66F27AC922A5FEB2D0BE34D41
+    
+    Daty:
+    - Pierwsze zgłoszenie: 2025-01-15 08:59:06
+    - Ostatnie zgłoszenie: 2025-01-16 01:48:02
+    - Ostatnia analiza: 2025-01-18 01:52:58
+    - Ostatnia modyfikacja: 2025-01-18 02:12:01
+    
+    Klasyfikacja zagrożeń:
+    - Sugerowana etykieta zagrożenia: trojan.pycstealer/python
+    - Kategorie zagrożeń: trojan
+    
+    Statystyki analizy:
+    - Złośliwe: 56
+    - Podejrzane: 0
+    - Niewykryte: 16
+    
+    Wyniki skanowania:
+        - Bkav: MALICIOUS (W32.Common.3A3AE9CC)
+    - Lionic: MALICIOUS (Trojan.Win64.Disco.tsI4)
+    - Elastic: MALICIOUS (malicious (high confidence))
+    - MicroWorld-eScan: MALICIOUS (Generic.PyCStealer.A.F54A5681)
+    - CTX: MALICIOUS (exe.trojan.python)
+    - CAT-QuickHeal: MALICIOUS (Trojan.Ghanarava.17371012710a0f5c)
+    - Skyhigh: MALICIOUS (Artemis)
+    - McAfee: MALICIOUS (Artemis!16A4F448219D)
+    - Malwarebytes: MALICIOUS (Agent.Spyware.Stealer.DDS)
+    - Zillya: MALICIOUS (Trojan.Agent.Win32.4060150)
+    - Sangfor: UNDETECTED (Brak)
+    - K7AntiVirus: MALICIOUS (Trojan ( 005ae2ad1 ))
+    - Alibaba: MALICIOUS (TrojanPSW:Win32/Almi_Disco.b)
+    - K7GW: MALICIOUS (Trojan ( 005ae2ad1 ))
+    - CrowdStrike: MALICIOUS (win/malicious_confidence_100% (W))
+    - Baidu: UNDETECTED (Brak)
+    - VirIT: MALICIOUS (Trojan.Win64.Agent.HOT)
+    - Symantec: MALICIOUS (Infostealer)
+    - tehtris: UNDETECTED (Brak)
+    - ESET-NOD32: MALICIOUS (Python/Spy.Agent.AAF)
+    - APEX: MALICIOUS (Malicious)
+    - TrendMicro-HouseCall: MALICIOUS (TROJ_GEN.R002C0DAF25)
+    - Paloalto: MALICIOUS (generic.ml)
+    - ClamAV: UNDETECTED (Brak)
+    - GData: MALICIOUS (Generic.PyCStealer.A.F54A5681)
+    - Kaspersky: MALICIOUS (UDS:DangerousObject.Multi.Generic)
+    - BitDefender: MALICIOUS (Generic.PyCStealer.A.F54A5681)
+    - NANO-Antivirus: UNDETECTED (Brak)
+    - SUPERAntiSpyware: UNDETECTED (Brak)
+    - Avast: MALICIOUS (Python:Agent-SP [Trj])
+    - Rising: MALICIOUS (Stealer.CredCard!1.1173B (CLASSIC))
+    - Emsisoft: MALICIOUS (Generic.PyCStealer.A.F54A5681 (B))
+    - Google: MALICIOUS (Detected)
+    - F-Secure: MALICIOUS (Trojan.TR/Spy.Agent.ubnfc)
+    - DrWeb: MALICIOUS (Python.Stealer.1545)
+    - VIPRE: MALICIOUS (Generic.PyCStealer.A.F54A5681)
+    - TrendMicro: MALICIOUS (TROJ_GEN.R002C0DAF25)
+    - McAfeeD: MALICIOUS (ti!C897F350C048)
+    - SentinelOne: MALICIOUS (Static AI - Suspicious PE)
+    - Trapmine: UNDETECTED (Brak)
+    - CMC: UNDETECTED (Brak)
+    - Sophos: MALICIOUS (Mal/Generic-S)
+    - Ikarus: MALICIOUS (Trojan.Python.Spy)
+    - FireEye: MALICIOUS (Generic.PyCStealer.A.F54A5681)
+    - Jiangmin: UNDETECTED (Brak)
+    - Webroot: UNDETECTED (Brak)
+    - Varist: MALICIOUS (PYC/Cstealar.A.gen!Camelot)
+    - Avira: MALICIOUS (TR/Spy.Agent.ubnfc)
+    - Antiy-AVL: MALICIOUS (RiskWare/Win32.Kryptik.a)
+    - Kingsoft: MALICIOUS (Win32.Troj.Unknown.a)
+    - Gridinsoft: MALICIOUS (Trojan.Win64.Agent.sa)
+    - Xcitium: MALICIOUS (Malware@#2lkqa24mo8hty)
+    - Arcabit: MALICIOUS (Generic.PyCStealer.A.F54A5681)
+    - ViRobot: UNDETECTED (Brak)
+    - Microsoft: MALICIOUS (Trojan:Win64/CrealStealer!rfn)
+    - Cynet: MALICIOUS (Malicious (score: 99))
+    - AhnLab-V3: MALICIOUS (Trojan/Win.Agent.C5718342)
+    - Acronis: UNDETECTED (Brak)
+    - VBA32: MALICIOUS (Trojan.Python)
+    - ALYac: MALICIOUS (Generic.PyCStealer.A.F54A5681)
+    - TACHYON: UNDETECTED (Brak)
+    - Cylance: MALICIOUS (Unsafe)
+    - Panda: MALICIOUS (Trj/CI.A)
+    - Zoner: UNDETECTED (Brak)
+    - Tencent: MALICIOUS (Win32.Trojan.Disco.Czlw)
+    - Yandex: UNDETECTED (Brak)
+    - huorong: MALICIOUS (Ransom/LockFile.fl)
+    - MaxSecure: MALICIOUS (Trojan.Malware.241401022.susgen)
+    - Fortinet: MALICIOUS (Python/Agent.ADT!tr)
+    - AVG: MALICIOUS (Python:Agent-SP [Trj])
+    - DeepInstinct: MALICIOUS (MALICIOUS)
+    - alibabacloud: UNDETECTED (Brak)
+    - Avast-Mobile: TYPE-UNSUPPORTED (Brak)
+    - SymantecMobileInsight: TYPE-UNSUPPORTED (Brak)
+    - BitDefenderFalx: TYPE-UNSUPPORTED (Brak)
+    - Trustlook: TYPE-UNSUPPORTED (Brak)
+
+    ---------------------
+    Źródło analizy: https://www.virustotal.com/api/v3/files/c897f350c048329e77eae707fcf6ee75a6a18d75068927005ee1e8450009b394
+    

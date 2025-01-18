@@ -1,0 +1,29 @@
+# Wymagane biblioteki Python do projektu passive_defuscation
+
+# Podstawowe biblioteki Pythona do analizy kodu
+ast
+re
+base64
+tokenize
+pyzipper
+shutil
+
+# Obsługa systemu plików i procesów
+os
+sys
+subprocess
+tempfile
+
+# Biblioteka do obsługi JS (Node.js wymagany)
+nodejs  # Upewnij się, że Node.js jest zainstalowany w systemie
+
+# Dodatkowe biblioteki do analizy i generowania kodu JS
+esprima  # npm install esprima
+escodegen  # npm install escodegen
+
+# --- Instrukcja instalacji ---
+# 1. Zainstaluj wymagane pakiety Pythona:
+#    pip install -r requirements.txt
+
+# 2. Zainstaluj Node.js i pakiety JS:
+#    npm install -g esprima escodegen
