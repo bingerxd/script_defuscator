@@ -51,18 +51,6 @@ Podaj ścieżkę do pliku.
 
 Wynik zostanie zapisany w folderze defuscated_scripts.
 
-📊 Przykładowy Raport
-
-# === RAPORT O WYKRYTYCH WARUNKACH ===
-# Nadmierne zagnieżdżenia: 2
-# Złożone warunki logiczne: 1
-# Upraszczalne warunki True/False: 3
-
-# === RAPORT O WYKRYTYCH POŁĄCZENIACH ===
-# URL: 2
-# IP: 1
-# Dynamiczne połączenia: 0
-
 📊 Użyte Biblioteki
 
 Python
