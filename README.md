@@ -67,6 +67,7 @@ Wynik zostanie zapisany w folderze defuscated_scripts.
 
 ## 👥 Autor
 Patryk Zabawa
+
 Data: 2025-01-12
 
 
