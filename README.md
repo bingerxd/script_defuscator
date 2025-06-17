@@ -33,3 +33,45 @@ Zainstaluj pakiety Node.js do analizy JavaScript:
 ```bash
 npm install -g esprima escodegen
 ```
+
+## 🔄 Użycie
+
+Uruchom główny skrypt:
+
+```bash
+python main.py
+```
+Następnie wybierz:
+
+- **1** — Pipeline dla kodu Python
+- **2** — Pipeline dla kodu JavaScript
+
+Podaj ścieżkę do pliku.
+
+Wynik zostanie zapisany w folderze defuscated_scripts.
+
+## 📊 Użyte Biblioteki
+
+### Python
+
+- **ast** — Analiza i manipulacja drzewem składniowym  
+- **re** — Wyszukiwanie i zamiana wzorców tekstowych (Regex)  
+- **base64** — Dekodowanie ciągów Base64  
+- **tokenize** — Usuwanie komentarzy i docstringów  
+- **os**, **sys** — Operacje na plikach i systemie  
+
+### JavaScript (w Pythonie)
+
+- **Esprima** — Parsowanie kodu JavaScript  
+- **Escodegen** — Generowanie kodu JavaScript
+
+## 👥 Autor
+Patryk Zabawa
+Data: 2025-01-12
+
+
+
+
+
+
+
