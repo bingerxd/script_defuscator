@@ -21,7 +21,7 @@ Głównym celem jest wykrywanie oraz neutralizacja złośliwych lub trudnych do 
 Sklonuj repozytorium:
 
 ```bash
-git clone https://github.com/TwojNick/passive_defuscation.git
+git clone https://github.com/bingerxd/passive_defuscation.git
 cd passive_defuscation
 ```
 
