@@ -23,11 +23,13 @@ Sklonuj repozytorium:
 ```bash
 git clone https://github.com/TwojNick/passive_defuscation.git
 cd passive_defuscation
+```
 
 Zainstaluj wymagane biblioteki Python:
-
+```bash
 pip install -r requirements.txt
-
+```
 Zainstaluj pakiety Node.js do analizy JavaScript:
-
+```bash
 npm install -g esprima escodegen
+```
